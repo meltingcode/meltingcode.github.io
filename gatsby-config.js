@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: "/",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Meltingcode Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `João Pedro Evangelista`,
+      summary: `TBD`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A collection of notes and thoughts.`,
+    siteUrl: `http://meltingcode.xyz/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sleepiejohn`,
     },
   },
   plugins: [
